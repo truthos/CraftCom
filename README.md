@@ -25,7 +25,7 @@ CraftCom is a command-line tool powered by Google's Gemini AI that helps users i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/craftcom.git
+git clone https://github.com/truthos/CraftCom.git
 cd craftcom
 ```
 
@@ -41,7 +41,7 @@ go install ./cmd/craftcom
 ### Using Go Install
 
 ```bash
-go install github.com/yourusername/craftcom/cmd/craftcom@latest
+go install github.com/truthos/CraftCom/cmd/craftcom@latest
 ```
 
 ## Configuration
@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- TruthOS - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- TruthOS - [github.com/truthos](github.com/truthos)
 
 ## Acknowledgments
 
