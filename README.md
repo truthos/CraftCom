@@ -1,5 +1,6 @@
 # CraftCom
-![](imgs/logo.jpg)
+<img src="imgs/logo.jpg" height="240" width="240">
+
 CraftCom is a command-line tool powered by Google's Gemini AI that helps users interact with their terminal through natural language. It converts natural language queries into shell commands, provides explanations, and ensures safe execution.
 
 ## Features
