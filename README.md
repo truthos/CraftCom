@@ -138,19 +138,6 @@ go build -o craftcom cmd/craftcom/main.go
 go install ./cmd/craftcom
 ```
 
-### Running Tests
-
-```bash
-# Run all tests
-go test ./...
-
-# Run with coverage
-go test -cover ./...
-
-# Run specific package tests
-go test ./pkg/craftcom/...
-```
-
 ## Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](docs/CONTRIBUTING.md) for details.
