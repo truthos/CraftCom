@@ -1,4 +1,13 @@
-<div align="center"> <img src="imgs/logo_nobg.png" alt="CraftCom Logo" width="240" height="240"> <h1>🐿️ CraftCom</h1> <p> <strong>AI-powered natural language terminal assistant</strong> </p> <p> <a href="https://github.com/truthos/CraftCom"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/truthos/CraftCom?style=social"></a> <a href="https://github.com/truthos/CraftCom/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/truthos/CraftCom/total?style=social"></a> <a href="https://github.com/truthos/CraftCom"><img alt="GitHub version" src="https://img.shields.io/github/v/release/truthos/CraftCom"></a> <a href="https://github.com/truthos/CraftCom/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/truthos/CraftCom"></a> </p> </div>
+<div align="center"> <img src="imgs/logo_nobg.png" alt="CraftCom Logo" width="240" height="240"> 
+<h1>🐿️ CraftCom</h1>
+<p> <strong>AI-powered natural language terminal assistant</strong> </p> 
+<p> 
+<a href="https://github.com/truthos/CraftCom"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/truthos/CraftCom?style=social"></a> 
+<a href="https://github.com/truthos/CraftCom/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/truthos/CraftCom/total?style=social"></a> 
+<a href="https://github.com/truthos/CraftCom"><img alt="GitHub version" src="https://img.shields.io/github/v/release/truthos/CraftCom"></a> 
+<a href="https://github.com/truthos/CraftCom/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/truthos/CraftCom"></a> 
+</p> 
+</div>
 
 CraftCom is a command-line tool powered by Google's Gemini AI that helps users interact with their terminal through natural language. It converts natural language queries into shell commands, provides explanations, and ensures safe execution.
 
