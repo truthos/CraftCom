@@ -131,9 +131,6 @@ craftcom/
 # Get dependencies
 go mod download
 
-# Run tests
-go test ./...
-
 # Build
 go build -o craftcom cmd/craftcom/main.go
 
